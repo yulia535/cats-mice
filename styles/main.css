@@ -1,0 +1,15 @@
+* {
+  cursor: url(./../img/mouse.png), auto;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+body {
+  background-color: aquamarine;
+}
+body .catImg {
+  width: 150px;
+  transition: 0.5s;
+}/*# sourceMappingURL=main.css.map */
